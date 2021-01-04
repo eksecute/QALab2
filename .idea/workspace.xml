@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f43f973-3688-4da0-b15e-be60605b3d2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1mblfs8DCCmYrak7OWdwhSTpxrE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunManager" selected="Jest.Sending errors.should return true">
+    <configuration name="Critical errors" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/lab.test.js" />
+      <test-names>
+        <test-name value="Critical errors" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ordinary errors" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/lab.test.js" />
+      <test-names>
+        <test-name value="Ordinary errors" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sending errors" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/lab.test.js" />
+      <test-names>
+        <test-name value="Sending errors" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sending errors.should return true" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/lab.test.js" />
+      <test-names>
+        <test-name value="Sending errors" />
+        <test-name value="should return true" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="lab1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lab1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Sending errors.should return true" />
+        <item itemvalue="Jest.Critical errors" />
+        <item itemvalue="Jest.Sending errors" />
+        <item itemvalue="Jest.Ordinary errors" />
+        <item itemvalue="Node.js.lab1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f43f973-3688-4da0-b15e-be60605b3d2b" name="Default Changelist" comment="" />
+      <created>1609770277642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609770277642</updated>
+      <workItem from="1609770279297" duration="1199000" />
+      <workItem from="1609785695064" duration="10157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1480" height="827" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1609800352078">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1609800352078" />
+    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609790890846">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="550" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1609790890846" />
+    <state width="1659" height="331" key="GridCell.Tab.0.bottom" timestamp="1609801238429">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238429" />
+    <state width="1659" height="331" key="GridCell.Tab.0.center" timestamp="1609801238429">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238429" />
+    <state width="1659" height="331" key="GridCell.Tab.0.left" timestamp="1609801238429">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238429" />
+    <state width="1659" height="331" key="GridCell.Tab.0.right" timestamp="1609801238429">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238429" />
+    <state width="1659" height="331" key="GridCell.Tab.1.bottom" timestamp="1609801238430">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238430" />
+    <state width="1659" height="331" key="GridCell.Tab.1.center" timestamp="1609801238430">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238430" />
+    <state width="1659" height="331" key="GridCell.Tab.1.left" timestamp="1609801238430">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238430" />
+    <state width="1659" height="331" key="GridCell.Tab.1.right" timestamp="1609801238430">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238430" />
+    <state width="1659" height="331" key="GridCell.Tab.2.bottom" timestamp="1609801238431">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238431" />
+    <state width="1659" height="331" key="GridCell.Tab.2.center" timestamp="1609801238431">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238431" />
+    <state width="1659" height="331" key="GridCell.Tab.2.left" timestamp="1609801238431">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238431" />
+    <state width="1659" height="331" key="GridCell.Tab.2.right" timestamp="1609801238431">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238431" />
+    <state width="1659" height="331" key="GridCell.Tab.3.bottom" timestamp="1609801238432">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.3.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238432" />
+    <state width="1659" height="331" key="GridCell.Tab.3.center" timestamp="1609801238432">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.3.center/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238432" />
+    <state width="1659" height="331" key="GridCell.Tab.3.left" timestamp="1609801238432">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.3.left/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238432" />
+    <state width="1659" height="331" key="GridCell.Tab.3.right" timestamp="1609801238432">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="331" key="GridCell.Tab.3.right/0.23.1680.1027@0.23.1680.1027" timestamp="1609801238432" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1609789898830">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1609789898830" />
+    <state x="505" y="248" width="670" height="675" key="run.anything.popup" timestamp="1609790221957">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="248" width="670" height="675" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1609790221957" />
+  </component>
+</project>
